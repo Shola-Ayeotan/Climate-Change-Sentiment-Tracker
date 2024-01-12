@@ -1,8 +1,8 @@
 
-# Sentiment Analysis on Climate Change Twitter Data
+# Climate Change Sentiment Analysis Using Twitter Data
 
 ## Overview
-This project analyzes public sentiment on climate change using a text mining approach on Twitter data, uncovering prevalent sentiments and viewpoints.
+This project analyzes public sentiment on climate change using a text-mining approach on Twitter data, uncovering prevalent sentiments and viewpoints.
 
 ## Research Question
 What are the sentiments and opinions expressed by the public on social media regarding climate change?
